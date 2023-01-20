@@ -1,6 +1,0 @@
-Levantamento de Product Backlog Items - Empresa Builtcode
-
-
-Sprint Backlog da primeira Sprint do produto contendo – pelo menos – 10 PBIs (Product Backlog item) e fazer as estimativas em horas de quanto de esforço cada PBI vai demandar (cálculo da velocidade).
-
-Foi estipulado que o time trabalha em Sprints de 15 dias.
